@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../01-DART"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3307,
+				"driver": "MariaDB",
+				"name": "localhost",
+				"username": "root",
+				"database": "blog-laravel-10"
+			}
+		],
+		"liveServer.settings.multiRootWorkspaceName": "Proyecto-1-HTML-CSS"
+	}
+}
